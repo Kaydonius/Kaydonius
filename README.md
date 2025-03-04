@@ -1,4 +1,4 @@
-## Hi 
+## Welcome!
 
 Junior CSULB student, aspiring AI Engineer, currently building a study help extension :)
 
