@@ -1,6 +1,6 @@
 ## Welcome!
 
-Junior CSULB student, aspiring Software Engineer, currently building a study help extension :)
+Junior CSULB student, aspiring Software/AI Engineer, currently building a study help extension :)
 
 <!--
 **Kaydonius/Kaydonius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
