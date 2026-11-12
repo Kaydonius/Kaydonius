@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is [Kaydon](skinnerkaydon@gmail.com), and I'm a computer science graduate from California State University, Long Beach
+My name is [Kaydon](https://www.linkedin.com/in/kaydon-skinner/), and I'm a computer science graduate from California State University, Long Beach
 
 Passionate in all things AI/Machine Learning, Data Science & Analytics.
 Currently working on revamping two of my most recent projects pertaining to exoplanets and fraud transaction analysis! Learning Power BI as well. 
