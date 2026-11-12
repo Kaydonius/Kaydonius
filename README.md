@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello 👋
 
+My name is [Kaydon](skinnerkaydon@gmail.com), and I'm a computer science graduate from California State University, Long Beach
+
+Passionate in all things AI/Machine Learning, Data Science & Analytics.
+Currently working on revamping two of my most recent projects pertaining to exoplanets and fraud transaction analysis! Learning Power BI as well. 
+
+Proficient in SQL, Python, R, and C++ primarily. Also well versed in Jupyter, Tableau, and Excel.
+
+Fun facts:
+- I love outer space
+- Currently training for the LA Marathon
 <!--
 **Kaydonius/Kaydonius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
